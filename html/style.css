@@ -1,0 +1,56 @@
+.about-me {
+width:1000px;
+margin: 0 auto;
+background-image: url('image/background.jpg');
+background-size: 100%;
+border: outset gray 5px;
+}
+
+.header {
+display: flex;
+flex-direction: column-reverse;
+text-align: center;
+padding-top:35px;
+}
+
+h2 {
+font-family: Geneva, Arial, Helvetica, serif;
+}
+
+img {
+width: 500px;
+margin: 0 auto;
+border: outset gray 5px;
+border-radius: 50px;
+}
+
+h4{
+font-size: 21px;
+text-align: center;
+font-family: Geneva, Arial, Helvetica, serif;
+}
+
+p {
+font-size: 20px;
+line-height: normal;
+padding-right:35px;
+padding-left:35px;
+text-indent: 10px; 
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+text-decoration: none;
+}
+
+a:visited {
+color: #292929; 
+}
+
+a:active {
+color: #525252;
+}
+
+.contacts h4 {
+font-family: franklin gothic medium;
+}
