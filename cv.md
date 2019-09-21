@@ -18,3 +18,20 @@ In 2015, finished the *Belarusian Trade and Economic University*, specialty logi
 in 2017 graduated from the magistracy, in the same specialty.
 In 2017 studied at the *STEP Academy*, took courses Java language, but didn’t like it and decided to go in another direction, namely studying JavaScript. 
 
+### Code examples
+
+Here is code sample from my first lab:
+```
+int seconds = 15487313468;
+int minutes = seconds / 60;
+int hours = minutes / 60;
+int days = hours / 24;
+System.out.println(seconds, minutes, hours, days);
+```
+
+### English
+
+On the **EPAM** website passed tests for the level of English, and my result varies from A2 to B1.
+Now i'm improving my English on *duolingo* courses.
+
+mob. +375-29-182-30-83 | mail: smv.gomel@gmail.com
